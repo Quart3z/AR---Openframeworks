@@ -1,0 +1,14 @@
+﻿  ofApp.cpp
+d:\project\of_v0.11.0_vs2017_release\addons\ofxcv-master\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch
+  myCourageousSketch.vcxproj -> D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\myCourageousSketch_debug.exe
+  
+  	                   2	D:\Project\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\assimp64.dll
+  	  *EXTRA File 		 6018560	D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\FreeImage.dll
+  
+  	                   1	D:\Project\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\assimp64.dll
+  	  *EXTRA File 		 1266176	D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\Project\of_v0.11.0_vs2017_release\apps\myApps\myCourageousSketch\bin\fmodexL.dll
