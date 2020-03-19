@@ -1,6 +1,6 @@
 # AR---Openframeworks
-
-Requirements: <br/>
-ofxAssimpModelLoader
-ofxCv
-ofxGUI
+<b>Requirement</b><br/>
+ofxAssimpModelLoader<br/>
+ofxCv<br/>
+ofxGUI<br/>
+<br/>
