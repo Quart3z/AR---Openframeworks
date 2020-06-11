@@ -5,6 +5,6 @@ ofxCv<br/>
 ofxGUI<br/>
 <br/>
 
-<b>Developed by</b><br/>
-Looi Yao Wei</br>
-Ng Jia Qi
+<b>Developed by</b>
+- Looi Yao Wei
+- Ng Jia Qi
